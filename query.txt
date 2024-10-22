@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7442724723%2C%22first_name%22%3A%22Abir%22%2C%22last_name%22%3A%22Ahmed%205%22%2C%22username%22%3A%22abirovi5%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-8993395423401273428&chat_type=sender&auth_date=1729616153&hash=8395b1a837c2c7859bc30d32feb4e404829d8d671c4baad50080f8095dc773c0
